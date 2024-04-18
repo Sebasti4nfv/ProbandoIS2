@@ -1,6 +1,7 @@
 #include <iostream> 
 using namespace std;
 
+//hola amigos de youtube
 
 
 float elpromediomayor (float promedio1,
@@ -52,6 +53,6 @@ int main(){
 
     ImprimirResultados(mayor);
     
-
+// probando git
     return 0;
  }
